@@ -6,7 +6,7 @@ import styles from './page.module.css';
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
-function page() {
+function Page() {
   const [user, setUser, selected, setSelected] = useContext(productContext);
   const navigate = useRouter();
 
@@ -35,4 +35,4 @@ function page() {
 
 }
 
-export default page;
+export default Page;
