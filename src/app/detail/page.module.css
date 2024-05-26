@@ -1,0 +1,14 @@
+.separate{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    /* display: flex; */
+    justify-content: center;
+    padding: auto;
+    margin-top: 5em;
+}
+.main h1{
+    /* display: flex; */
+    justify-content: center;
+}

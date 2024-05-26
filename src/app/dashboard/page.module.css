@@ -1,0 +1,42 @@
+.separate{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    padding: 20px;
+    background-color: #f5f5f5;
+    width: 20%;
+    height: 555px;
+}
+
+.text1 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.text2 {
+    font-size: 16px;
+    color: #777;
+}
+
+.btn {
+    margin-top: 28em;
+    margin-right: 12em;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Style the user image */
+/* Style the sign-out button */
+/* Hover effect for the sign-out button */
+/* Style the user name */
+/* Style the user email */
+/* Apply styles to the entire dashboard container */
