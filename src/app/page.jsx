@@ -227,7 +227,7 @@ const Page = () => {
             Over 3 million ready-to-work creatives!
           </button>
           <h1 className={styles.title}>
-            The world's destination <br /> for design
+            {"The world's destination"} <br /> {"for design"}
           </h1>
           <p className={styles.subtitle}>
             Get inspired by the work of millions of top-rated designers &

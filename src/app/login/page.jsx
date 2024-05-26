@@ -51,7 +51,7 @@ const Page = () => {
             </button>
           </form>
           <p className={styles.dont}>
-            Don't have an account?{" "}
+          {"Don't have an account? "}
             <Link href="/signup" className={styles.signup}>
               Sign up
             </Link>
