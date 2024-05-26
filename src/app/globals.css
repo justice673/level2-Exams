@@ -1,0 +1,13 @@
+
+.image{
+  overflow: hidden;
+  border-radius: 50%;
+  width: 2em;
+  height: 2em;
+  
+}
+.image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
